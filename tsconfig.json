@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "ES2021",
+    "strict": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "outDir": "dist",
+    // "typeRoots": [],
+    // "types": []
+  },
+  "include": [
+    "./src",
+    "./test"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}
